@@ -67,4 +67,4 @@ UPER
 
 4.
     I am realizing that my Lambda plan my have not been the best approach.  I am happy with the functionality of my game.
-    Though I wish I would have included more pillers of OOP into the design.  I think if I would have had that as more of a priority I could have included them better.
+    Though I wish I would have included more pillers of OOP into the design.  I think if I would have had that as more of a priority I could have included them better.  I just realized the night before presentations that I probably should have had a ship abstract class and extended those to both the player and the computer ship classes. I believe that could have worked better.
